@@ -1,0 +1,5 @@
+Requirements required for the Task are:
+
+pyspark==3.5.0
+delta-spark==3.0.0
+pandas
